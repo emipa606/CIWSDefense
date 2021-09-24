@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WallCIWS.label>crownnatural</WallCIWS.label>
+  <WallCIWS.description>Defensive crownnatural, cannot pass, covering fire.</WallCIWS.description>
+  <WallCIWS_Blueprint.label>crownnatural (blueprint)</WallCIWS_Blueprint.label>
+  <WallCIWS_Frame.label>crownnatural (building)</WallCIWS_Frame.label>
+  <WallCIWS_Frame.description>Defensive crownnatural, cannot pass, covering fire.</WallCIWS_Frame.description>
+  <CIWS_WallFangdan.label>bullet proof wall</CIWS_WallFangdan.label>
+  <CIWS_WallFangdan.description>The walls built by the specially processed materials are prominent in the defense of various flying attacks.</CIWS_WallFangdan.description>
+  <CIWS_WallFangdan_Blueprint.label>bullet proof wall (blueprint)</CIWS_WallFangdan_Blueprint.label>
+  <CIWS_WallFangdan_Frame.label>bullet proof wall (building) </CIWS_WallFangdan_Frame.label>
+  <CIWS_WallFangdan_Frame.description>The walls built by the specially processed materials are prominent in the defense of various flying attacks.</CIWS_WallFangdan_Frame.description>
+  <CIWS_WallAnquan.label>your wall</CIWS_WallAnquan.label>
+  <CIWS_WallAnquan.description>The walls that can defend against all kinds of attacks are expensive but safe.</CIWS_WallAnquan.description>
+  <CIWS_WallAnquan_Blueprint.label>your wall(blueprint)</CIWS_WallAnquan_Blueprint.label>
+  <CIWS_WallAnquan_Frame.label>your wall(building)</CIWS_WallAnquan_Frame.label>
+  <CIWS_WallAnquan_Frame.description>The walls that can defend against all kinds of attacks are expensive but safe.</CIWS_WallAnquan_Frame.description>
+</LanguageData>

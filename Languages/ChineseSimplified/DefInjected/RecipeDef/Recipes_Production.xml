@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--<MakeCIWSSandsAny.label>制作建筑沙</MakeCIWSSandsAny.label>-->
+  <!--<MakeCIWSSandsAny.description>用石头粉碎制作建筑用沙。</MakeCIWSSandsAny.description>-->
+  <!--<MakeCIWSSandsAny.jobString>正在制作建筑沙。</MakeCIWSSandsAny.jobString>-->
+  <!--<MakeShengLiao.label>制作水泥生料</MakeShengLiao.label>-->
+  <!--<MakeShengLiao.description>制作水泥生料，用于锻烧水泥的原料。</MakeShengLiao.description>-->
+  <!--<MakeShengLiao.jobString>正在制作水泥生料。</MakeShengLiao.jobString>-->
+  <!--<MakeCIWS_ShuiNi.label>煅烧水泥</MakeCIWS_ShuiNi.label>-->
+  <!--<MakeCIWS_ShuiNi.description>使用水泥生料锻烧水泥。</MakeCIWS_ShuiNi.description>-->
+  <!--<MakeCIWS_ShuiNi.jobString>煅烧中。</MakeCIWS_ShuiNi.jobString>-->
+  <!--<Make_Shell120mm.label>制作一百二十毫米高爆炮弹</Make_Shell120mm.label>-->
+  <!--<Make_Shell120mm.description>一百二十毫米高爆炮弹。</Make_Shell120mm.description>-->
+  <!--<Make_Shell120mm.jobString>制作中。</Make_Shell120mm.jobString>-->
+  <!--<Make_Shell82mm.label>制作八十二毫米EMP炮弹</Make_Shell82mm.label>-->
+  <!--<Make_Shell82mm.description>八十二毫米EMP炮弹。</Make_Shell82mm.description>-->
+  <!--<Make_Shell82mm.jobString>制作中。</Make_Shell82mm.jobString>-->
+</LanguageData>

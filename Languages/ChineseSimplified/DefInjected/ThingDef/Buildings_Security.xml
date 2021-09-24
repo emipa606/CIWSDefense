@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CIWS1130A.label>H/PJ-A型末端防御塔</CIWS1130A.label>
+  <CIWS1130A.description>H/PJ-1130A自动末端武器系统，殖民地的最后一层防御。</CIWS1130A.description>
+  <CIWS1130A_Blueprint.label>H/PJ-A型末端防御塔 (蓝图)</CIWS1130A_Blueprint.label>
+  <CIWS1130A_Blueprint_Install.label>H/PJ-A型末端防御塔 (蓝图)</CIWS1130A_Blueprint_Install.label>
+  <CIWS1130A_Frame.label>H/PJ-A型末端防御塔 (建造中)</CIWS1130A_Frame.label>
+  <CIWS1130A_Frame.description>H/PJ-1130A自动末端武器系统，殖民地的最后一层防御。</CIWS1130A_Frame.description>
+  <Bullet_30mmapc.label>三十毫米被帽穿甲弹</Bullet_30mmapc.label>
+  <HPJ_14A.label>H/PJ-14A型舰炮</HPJ_14A.label>
+  <HPJ_14A.description>H/PJ-14A型舰炮。</HPJ_14A.description>
+  <CIWS1130AB.label>H/PJ-A-2型高级防御塔</CIWS1130AB.label>
+  <CIWS1130AB.description>H/PJ-1130A-2高级自动武器系统，升级了火控系统，射程大幅度提升，更换伤害更高的脱壳穿甲弹。</CIWS1130AB.description>
+  <CIWS1130AB_Blueprint.label>H/PJ-A-2型高级防御塔 (蓝图)</CIWS1130AB_Blueprint.label>
+  <CIWS1130AB_Blueprint_Install.label>H/PJ-A-2型高级防御塔 (蓝图)</CIWS1130AB_Blueprint_Install.label>
+  <CIWS1130AB_Frame.label>H/PJ-A-2型高级防御塔 (建造中)</CIWS1130AB_Frame.label>
+  <CIWS1130AB_Frame.description>H/PJ-1130A-2高级自动武器系统，升级了火控系统，射程大幅度提升，更换伤害更高的脱壳穿甲弹。</CIWS1130AB_Frame.description>
+  <Bullet_30mmapcr.label>三十毫米硬芯穿甲弹</Bullet_30mmapcr.label>
+  <HPJ_14AB.label>H/PJ-14A-2型舰炮</HPJ_14AB.label>
+  <HPJ_14AB.description>H/PJ-14A-2型舰炮。</HPJ_14AB.description>
+  <CIWS1130B.label>H/PJ-B型自动防御塔</CIWS1130B.label>
+  <CIWS1130B.description>H/PJ-1130B自动武器系统，可以自动消灭任何目标。</CIWS1130B.description>
+  <CIWS1130B_Blueprint.label>H/PJ-B型自动防御塔 (蓝图)</CIWS1130B_Blueprint.label>
+  <CIWS1130B_Blueprint_Install.label>H/PJ-B型自动防御塔 (蓝图)</CIWS1130B_Blueprint_Install.label>
+  <CIWS1130B_Frame.label>H/PJ-B型自动防御塔 (建造中)</CIWS1130B_Frame.label>
+  <CIWS1130B_Frame.description>H/PJ-1130B自动武器系统，可以自动消灭任何目标。</CIWS1130B_Frame.description>
+  <!-- <ThingDef ParentName="BuildingBase">
+		<defName>CIWS1130B</defName>
+		<label>H/PJ-B型手动防御塔</label>
+		<thingClass>Building_TurretGun</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Security/TurretImprovised</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <stealable>false</stealable>
+    <statBases>
+      <MaxHitPoints>175</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <WorkToBuild>2500</WorkToBuild>
+	  <Mass>80</Mass>
+      <Beauty>-10</Beauty>
+    </statBases>
+    <tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Explosive">
+				<explosiveRadius>1</explosiveRadius>
+				<explosiveDamageType>Flame</explosiveDamageType>
+			</li>
+			<li Class="CompProperties_Forbiddable"/>
+			<li Class="CompProperties_Mannable">
+				<manWorkType>Violent</manWorkType>
+			</li>
+		</comps>
+    <description>H/PJ-1130B手动武器系统，可以手动控制消灭任何目标，消耗23毫米炮弹。</description>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.4</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <hasTooltip>true</hasTooltip>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>100</costStuffCount>
+    <costList>
+      <Steel>150</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <specialDisplayRadius>45</specialDisplayRadius>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>HPJ_14B</turretGunDef>
+	  <turretShellDef>Shell23mm</turretShellDef>
+      <turretBurstCooldownTime>2</turretBurstCooldownTime>
+      <turretTopGraphicPath>Things/Building/Security/TurretImprovised_Top</turretTopGraphicPath>
+    </building>
+
+  </ThingDef> -->
+  <Bullet_23mmapc.label>二十三毫米被帽穿甲弹</Bullet_23mmapc.label>
+  <HPJ_14B.label>H/PJ-14B型火炮</HPJ_14B.label>
+  <HPJ_14B.description>H/PJ-14B型火炮。</HPJ_14B.description>
+  <CIWS1130C.label>H/PJ-C型火箭塔</CIWS1130C.label>
+  <CIWS1130C.description>H/PJ-1130C手动火箭发射塔，发射火箭弹消灭敌人。</CIWS1130C.description>
+  <CIWS1130C_Blueprint.label>H/PJ-C型火箭塔 (蓝图)</CIWS1130C_Blueprint.label>
+  <CIWS1130C_Blueprint_Install.label>H/PJ-C型火箭塔 (蓝图)</CIWS1130C_Blueprint_Install.label>
+  <CIWS1130C_Frame.label>H/PJ-C型火箭塔 (建造中)</CIWS1130C_Frame.label>
+  <CIWS1130C_Frame.description>H/PJ-1130C手动火箭发射塔，发射火箭弹消灭敌人。</CIWS1130C_Frame.description>
+  <Bullet_Huoyan.label>四十毫米火箭弹</Bullet_Huoyan.label>
+  <HPJ_14C.label>H/PJ-14C型火箭筒</HPJ_14C.label>
+  <HPJ_14C.description>H/PJ-14C型火箭筒。</HPJ_14C.description>
+  <CIWS1130D.label>H/PJ-D远程防御塔</CIWS1130D.label>
+  <CIWS1130D.description>H/PJ-1130D远程防御塔，用于狙杀数量较少的敌人精英。</CIWS1130D.description>
+  <CIWS1130D_Blueprint.label>H/PJ-D远程防御塔 (蓝图)</CIWS1130D_Blueprint.label>
+  <CIWS1130D_Blueprint_Install.label>H/PJ-D远程防御塔 (蓝图)</CIWS1130D_Blueprint_Install.label>
+  <CIWS1130D_Frame.label>H/PJ-D远程防御塔 (建造中)</CIWS1130D_Frame.label>
+  <CIWS1130D_Frame.description>H/PJ-1130D远程防御塔，用于狙杀数量较少的敌人精英。</CIWS1130D_Frame.description>
+  <Bullet_Yuancheng.label>底排增程弹</Bullet_Yuancheng.label>
+  <HPJ_14D.label>H/PJ-14D型远程火炮</HPJ_14D.label>
+  <HPJ_14D.description>H/PJ-14D型远程火炮。</HPJ_14D.description>
+  <!-- <ThingDef ParentName="BuildingBase">
+		<defName>CIWS1130B</defName>
+		<label>H/PJ-B型手动防御塔</label>
+		<thingClass>Building_TurretGun</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Security/TurretImprovised</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <minifiedDef>MinifiedFurniture</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <stealable>false</stealable>
+    <statBases>
+      <MaxHitPoints>175</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <WorkToBuild>2500</WorkToBuild>
+	  <Mass>80</Mass>
+      <Beauty>-10</Beauty>
+    </statBases>
+    <tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Explosive">
+				<explosiveRadius>1</explosiveRadius>
+				<explosiveDamageType>Flame</explosiveDamageType>
+			</li>
+			<li Class="CompProperties_Forbiddable"/>
+			<li Class="CompProperties_Mannable">
+				<manWorkType>Violent</manWorkType>
+			</li>
+		</comps>
+    <description>H/PJ-1130B手动武器系统，可以手动控制消灭任何目标，消耗23毫米炮弹。</description>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.4</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <hasTooltip>true</hasTooltip>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>100</costStuffCount>
+    <costList>
+      <Steel>150</Steel>
+      <Component>1</Component>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <specialDisplayRadius>45</specialDisplayRadius>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>HPJ_14B</turretGunDef>
+	  <turretShellDef>Shell23mm</turretShellDef>
+      <turretBurstCooldownTime>2</turretBurstCooldownTime>
+      <turretTopGraphicPath>Things/Building/Security/TurretImprovised_Top</turretTopGraphicPath>
+    </building>
+
+  </ThingDef> -->
+</LanguageData>

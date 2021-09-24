@@ -1,0 +1,69 @@
+# CIWSDefense
+
+![Image](https://i.imgur.com/buuPQel.png)
+
+Update of topp2000s mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1493496244
+
+- Should no longer overwrite vanilla wall-textures
+
+![Image](https://i.imgur.com/pufA0kM.png)
+
+	
+![Image](https://i.imgur.com/Z4GOv8H.png)
+
+Introduction: https://www.gamejilu.com/notes/rimworld_clws/
+Update log:
+0.19.1: support version 0.19.
+0.18.1: Supports version 0.18, because the version adjusts, removes the added mortar, retains only the shells, and adjusts the damage of the tower.
+0.17.1: support version 0.17.
+0.16.8: restore the wall, the wall needs cement.
+0.16.7: replace the map with the advanced turret. Thank you for the photo support of Yan Chen ~.
+0.16.6: add a defensive wall.
+The 0.16.5:B defense tower is changed to automatic, no longer consuming shells.
+0.16.4: add bulletproof walls.
+0.16.3: delete the wall.
+0.16.2: Repair the firing speed bugs of turrets and mortars, reduce the loading time of 82mm mortars, and change the D-type turret to a long-range sniper tower.
+0.16.1: support version 0.16.
+0.15.7: restoring known bug requires reopening.
+0.15.6: support traditional Chinese, thanks to cat translation @Biscuit.
+0.15.5: add an advanced turret and add a rapid fire mortar.
+0.15.4: change the B fort to the need to consume shells, and B type special shells are made at the handmade point.
+0.15.3: add a rack that can store 120 millimeter shells and add a shooting wall: the wall.
+0.15.2: support traditional Chinese, thanks to cat translation @Biscuit.
+0.15.1: separated from the core mod. Four kinds of defense towers, one 120mm mortar, are added.
+
+
+简介：https://www.gamejilu.com/notes/rimworld_clws/
+更新日志：
+0.19.1：支持0.19版本。
+0.18.1：支持0.18版本，因为版本调整，删除添加的迫击炮，只保留炮弹，调整防御塔的伤害。
+0.17.1：支持0.17版本。
+0.16.8：恢复女墙，女墙需要水泥建造。
+0.16.7：高级炮塔更换贴图，感谢@颜晨~的图片支持。
+0.16.6：添加一个防御超高的墙。
+0.16.5：B型防御塔改为自动，不再消耗炮弹。
+0.16.4：添加防弹墙。
+0.16.3：删除女墙。
+0.16.2：修复各炮塔和迫击炮的射速bug，降低82mm迫击炮的装填时间，将D型炮塔改为远程狙击塔。
+0.16.1：支持0.16版本。
+0.15.7：修复已知bug，需要重新开档。
+0.15.6：支持繁体中文，感谢猫叔的翻译@Biscuit。
+0.15.5：增加一门高级炮塔，增加一门速射迫击炮。
+0.15.4：将B型炮台改为需要消耗炮弹，B型专用的炮弹在手工制作点制作。
+0.15.3：添加一个可以存放120毫米炮弹的装备架，添加一个射击墙：女墙。
+0.15.2：支持繁体中文，感谢猫叔的翻译@Biscuit 。
+0.15.1：从核心mod中分离。添加了四种防御塔，一门120mm迫击炮，建造防御塔需要石墨烯材料。
+
+![Image](https://i.imgur.com/PwoNOj4.png)
+
+
+
+-  See if the the error persists if you just have this mod and its requirements active.
+-  If not, try adding your other mods until it happens again.
+-  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
+-  For best support, please use the Discord-channel for error-reporting.
+-  Do not report errors by making a discussion-thread, I get no notification of that.
+-  If you have the solution for a problem, please post it to the GitHub repository.
+
+

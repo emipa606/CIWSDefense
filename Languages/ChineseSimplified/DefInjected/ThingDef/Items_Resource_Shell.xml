@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Shell120mm.label>一百二十毫米高爆炮弹</Shell120mm.label>
+  <Shell120mm.description>一百二十毫米口径高爆炮弹。</Shell120mm.description>
+  <Bullet120mmMortar.label>一百二十毫米高爆炮弹</Bullet120mmMortar.label>
+  <Shell82mm.label>八十二毫米EMP炮弹</Shell82mm.label>
+  <Shell82mm.description>八十二毫米口径EMP炮弹。</Shell82mm.description>
+  <Bullet82mmMortar.label>八十二毫米EMP炮弹</Bullet82mmMortar.label>
+</LanguageData>

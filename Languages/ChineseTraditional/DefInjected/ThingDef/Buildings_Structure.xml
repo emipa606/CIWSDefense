@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WallCIWS.label>女牆</WallCIWS.label>
+  <WallCIWS.description>防禦用的女牆，不可通過，掩護射擊。</WallCIWS.description>
+  <WallCIWS_Blueprint.label>女牆 (藍圖)</WallCIWS_Blueprint.label>
+  <WallCIWS_Frame.label>女牆 (建造中)</WallCIWS_Frame.label>
+  <WallCIWS_Frame.description>防禦用的女牆，不可通過，掩護射擊。</WallCIWS_Frame.description>
+  <CIWS_WallFangdan.label>防彈牆</CIWS_WallFangdan.label>
+  <CIWS_WallFangdan.description>經過特殊工藝處理的材料建造的牆壁，對各種飛矢類攻擊防禦效果突出。</CIWS_WallFangdan.description>
+  <CIWS_WallFangdan_Blueprint.label>防彈牆 (藍圖)</CIWS_WallFangdan_Blueprint.label>
+  <CIWS_WallFangdan_Frame.label>防彈牆 (建造中)</CIWS_WallFangdan_Frame.label>
+  <CIWS_WallFangdan_Frame.description>經過特殊工藝處理的材料建造的牆壁，對各種飛矢類攻擊防禦效果突出。</CIWS_WallFangdan_Frame.description>
+  <CIWS_WallAnquan.label>你的牆</CIWS_WallAnquan.label>
+  <CIWS_WallAnquan.description>能夠防禦各種攻擊的牆壁，昂貴但安全。</CIWS_WallAnquan.description>
+  <CIWS_WallAnquan_Blueprint.label>你的牆 (藍圖)</CIWS_WallAnquan_Blueprint.label>
+  <CIWS_WallAnquan_Frame.label>你的牆 (建造中)</CIWS_WallAnquan_Frame.label>
+  <CIWS_WallAnquan_Frame.description>能夠防禦各種攻擊的牆壁，昂貴但安全。</CIWS_WallAnquan_Frame.description>
+</LanguageData>

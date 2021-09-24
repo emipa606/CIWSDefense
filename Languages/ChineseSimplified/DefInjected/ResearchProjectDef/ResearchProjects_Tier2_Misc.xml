@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Tier 2: Non-electric -->
+  <CIWS_HPJAB.label>近防系统-高级防御塔</CIWS_HPJAB.label>
+  <CIWS_HPJAB.description>对防御塔进行改造，现在可以建造H/PJ-A-2型高级防御塔。</CIWS_HPJAB.description>
+</LanguageData>

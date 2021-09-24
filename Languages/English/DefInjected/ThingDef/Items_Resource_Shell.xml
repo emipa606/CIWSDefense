@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Shell120mm.label>120mm high explosive shell</Shell120mm.label>
+  <Shell120mm.description>120mm high explosive shell.</Shell120mm.description>
+  <Bullet120mmMortar.label>120mm high explosive shell</Bullet120mmMortar.label>
+  <Shell82mm.label>82mm EMP shell</Shell82mm.label>
+  <Shell82mm.description>82mm EMP shell.</Shell82mm.description>
+  <Bullet82mmMortar.label>82mm EMP shell</Bullet82mmMortar.label>
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>CIWS_Defense</name>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <author>topp2000</author>
+  <packageId>Topp2000.CIWS.Defense</packageId>
+  <modDependencies>
+    <li>
+      <packageId>Topp2000.CIWS.Core</packageId>
+      <displayName>CIWS_Core</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1493484469
+			</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <description>
+[Mod版本：1.2.1]
+
+需要【近防系统CIWS_核心】的支持。
+简介：https://www.gamejilu.com/notes/rimworld_clws/
+更新日志：
+1.2.1：支持1.2版本。
+1.1.1：支持1.1版本。
+1.0.1：支持1.0版本。
+0.19.1：支持0.19版本。
+0.18.1：支持0.18版本，因为版本调整，删除添加的迫击炮，只保留炮弹，调整防御塔的伤害。
+0.17.1：支持0.17版本。
+0.16.8：恢复女墙，女墙需要水泥建造。
+0.16.7：高级炮塔更换贴图，感谢@颜晨~的图片支持。
+0.16.6：添加一个防御超高的墙。
+0.16.5：B型防御塔改为自动，不再消耗炮弹。
+0.16.4：添加防弹墙。
+0.16.3：删除女墙。
+0.16.2：修复各炮塔和迫击炮的射速bug，降低82mm迫击炮的装填时间，将D型炮塔改为远程狙击塔。
+0.16.1：支持0.16版本。
+0.15.7：修复已知bug，需要重新开档。
+0.15.6：支持繁体中文，感谢猫叔的翻译@Biscuit。
+0.15.5：增加一门高级炮塔，增加一门速射迫击炮。
+0.15.4：将B型炮台改为需要消耗炮弹，B型专用的炮弹在手工制作点制作。
+0.15.3：添加一个可以存放120毫米炮弹的装备架，添加一个射击墙：女墙。
+0.15.2：支持繁体中文，感谢猫叔的翻译@Biscuit 。
+0.15.1：从核心mod中分离。添加了四种防御塔，一门120mm迫击炮，建造防御塔需要石墨烯材料。
+	</description>
+</ModMetaData>

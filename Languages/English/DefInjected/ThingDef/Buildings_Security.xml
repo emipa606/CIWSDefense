@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CIWS1130A.label>H/PJ-A Terminal defense tower</CIWS1130A.label>
+  <CIWS1130A.description>H/PJ-1130A automatic terminal weapon system, the last layer of defense in the colonies.</CIWS1130A.description>
+  <CIWS1130A_Blueprint.label>H/PJ-A terminal defense tower (blueprint)</CIWS1130A_Blueprint.label>
+  <CIWS1130A_Blueprint_Install.label>H/PJ-A terminal defense tower (blueprint)</CIWS1130A_Blueprint_Install.label>
+  <CIWS1130A_Frame.label>H/PJ-A terminal defense tower (building)</CIWS1130A_Frame.label>
+  <CIWS1130A_Frame.description>H/PJ-1130A automatic terminal weapon system, the last layer of defense in the colonies.</CIWS1130A_Frame.description>
+  <Bullet_30mmapc.label>30mmAPC</Bullet_30mmapc.label>
+  <HPJ_14A.label>H/PJ-14A type naval gun</HPJ_14A.label>
+  <HPJ_14A.description>H/PJ-14A type naval gun.</HPJ_14A.description>
+  <CIWS1130AB.label>H/PJ-A-2 advanced defense tower</CIWS1130AB.label>
+  <CIWS1130AB.description>H/PJ-1130A-2 advanced automatic weapon system, upgrade the fire control system, a large range of range promotion, the replacement of a more harmful shell piercing projectile.</CIWS1130AB.description>
+  <CIWS1130AB_Blueprint.label>H/PJ-A-2 advanced defense tower (blueprint)</CIWS1130AB_Blueprint.label>
+  <CIWS1130AB_Blueprint_Install.label>H/PJ-A-2 advanced defense tower (blueprint)</CIWS1130AB_Blueprint_Install.label>
+  <CIWS1130AB_Frame.label>H/PJ-A-2 advanced defense tower (building)</CIWS1130AB_Frame.label>
+  <CIWS1130AB_Frame.description>H/PJ-1130A-2 advanced automatic weapon system, upgrade the fire control system, a large range of range promotion, the replacement of a more harmful shell piercing projectile.</CIWS1130AB_Frame.description>
+  <Bullet_30mmapcr.label>30mmAPCR</Bullet_30mmapcr.label>
+  <HPJ_14AB.label>H/PJ-14A-2 type naval gun</HPJ_14AB.label>
+  <HPJ_14AB.description>H/PJ-14A-2 type naval gun.</HPJ_14AB.description>
+  <CIWS1130B.label>H/PJ-B automatic defense tower</CIWS1130B.label>
+  <CIWS1130B.description>H/PJ-1130B automatic weapon system, can automatically eliminate any target.</CIWS1130B.description>
+  <CIWS1130B_Blueprint.label>H/PJ-B automatic defense tower (blueprint)</CIWS1130B_Blueprint.label>
+  <CIWS1130B_Blueprint_Install.label>H/PJ-B automatic defense tower (blueprint)</CIWS1130B_Blueprint_Install.label>
+  <CIWS1130B_Frame.label>H/PJ-B automatic defense tower (building)</CIWS1130B_Frame.label>
+  <CIWS1130B_Frame.description>H/PJ-1130B automatic weapon system, can automatically eliminate any target.</CIWS1130B_Frame.description>
+  <!-- <ThingDef ParentName="BuildingBase">
+		<defName>CIWS1130B</defName>
+		<label>H/PJ-B型手动防御塔</label>
+		<thingClass>Building_TurretGun</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Security/TurretImprovised</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <stealable>false</stealable>
+    <statBases>
+      <MaxHitPoints>175</MaxHitPoints>
+      <Flammability>0</Flammability>
+      <WorkToBuild>2500</WorkToBuild>
+	  <Mass>80</Mass>
+      <Beauty>-10</Beauty>
+    </statBases>
+    <tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Explosive">
+				<explosiveRadius>1</explosiveRadius>
+				<explosiveDamageType>Flame</explosiveDamageType>
+			</li>
+			<li Class="CompProperties_Forbiddable"/>
+			<li Class="CompProperties_Mannable">
+				<manWorkType>Violent</manWorkType>
+			</li>
+		</comps>
+    <description>H/PJ-1130B手动武器系统，可以手动控制消灭任何目标，消耗23毫米炮弹。</description>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.4</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <hasTooltip>true</hasTooltip>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>100</costStuffCount>
+    <costList>
+      <Steel>150</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <specialDisplayRadius>45</specialDisplayRadius>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>HPJ_14B</turretGunDef>
+	  <turretShellDef>Shell23mm</turretShellDef>
+      <turretBurstCooldownTime>2</turretBurstCooldownTime>
+      <turretTopGraphicPath>Things/Building/Security/TurretImprovised_Top</turretTopGraphicPath>
+    </building>
+
+  </ThingDef> -->
+  <Bullet_23mmapc.label>23mmAPC</Bullet_23mmapc.label>
+  <HPJ_14B.label>H/PJ-14B type artillery</HPJ_14B.label>
+  <HPJ_14B.description>H/PJ-14B type artillery.</HPJ_14B.description>
+  <CIWS1130C.label>H/PJ-C type rocket tower</CIWS1130C.label>
+  <CIWS1130C.description>The H/PJ-1130C manual rocket launches the tower to launch a rocket to kill the enemy.</CIWS1130C.description>
+  <CIWS1130C_Blueprint.label>H/PJ-C type rocket tower (blueprint)</CIWS1130C_Blueprint.label>
+  <CIWS1130C_Blueprint_Install.label>H/PJ-C type rocket tower (blueprint)</CIWS1130C_Blueprint_Install.label>
+  <CIWS1130C_Frame.label>Type H/PJ-C rocket tower (building)</CIWS1130C_Frame.label>
+  <CIWS1130C_Frame.description>The H/PJ-1130C manual rocket launches the tower to launch a rocket to kill the enemy.</CIWS1130C_Frame.description>
+  <Bullet_Huoyan.label>40mm rocket</Bullet_Huoyan.label>
+  <HPJ_14C.label>H/PJ-14C type rocket</HPJ_14C.label>
+  <HPJ_14C.description>H/PJ-14C type rocket.</HPJ_14C.description>
+  <CIWS1130D.label>H/PJ-D long-range defense tower</CIWS1130D.label>
+  <CIWS1130D.description>H/PJ-1130D long-range tower, for a small number of elite enemy strike.</CIWS1130D.description>
+  <CIWS1130D_Blueprint.label>H/PJ-D long-range defense tower (blueprint)</CIWS1130D_Blueprint.label>
+  <CIWS1130D_Blueprint_Install.label>H/PJ-D long-range defense tower (blueprint)</CIWS1130D_Blueprint_Install.label>
+  <CIWS1130D_Frame.label>H/PJ-D long-range defense tower (building)</CIWS1130D_Frame.label>
+  <CIWS1130D_Frame.description>H/PJ-1130D long-range tower, for a small number of elite enemy strike.</CIWS1130D_Frame.description>
+  <Bullet_Yuancheng.label>Bottom row increase projectile</Bullet_Yuancheng.label>
+  <HPJ_14D.label>H/PJ-14D type long range artillery</HPJ_14D.label>
+  <HPJ_14D.description>Type H/PJ-14D long range artillery.</HPJ_14D.description>
+</LanguageData>

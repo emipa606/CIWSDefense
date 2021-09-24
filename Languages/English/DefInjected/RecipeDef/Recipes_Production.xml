@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--<MakeCIWSSandsAny.label>Make building sand</MakeCIWSSandsAny.label>-->
+  <!--<MakeCIWSSandsAny.description>To smash the sand by stone.</MakeCIWSSandsAny.description>-->
+  <!--<MakeCIWSSandsAny.jobString>Making building sand.</MakeCIWSSandsAny.jobString>-->
+  <!--<MakeShengLiao.label>Make cement raw material</MakeShengLiao.label>-->
+  <!--<MakeShengLiao.description>Production of cement raw material, used for the calcination of cement raw materials.</MakeShengLiao.description>-->
+  <!--<MakeShengLiao.jobString>Making cement raw material.</MakeShengLiao.jobString>-->
+  <!--<MakeCIWS_ShuiNi.label>calcination cement</MakeCIWS_ShuiNi.label>-->
+  <!--<MakeCIWS_ShuiNi.description>Use of cement raw material calcined cement.</MakeCIWS_ShuiNi.description>-->
+  <!--<MakeCIWS_ShuiNi.jobString>calcination.</MakeCIWS_ShuiNi.jobString>-->
+</LanguageData>
