@@ -8,14 +8,11 @@ public class CIWSAnesthetic : Verb_Shoot
 {
     protected override bool TryCastShot()
     {
-        if (currentTarget.HasThing && currentTarget.Thing.Map != caster.Map)
+        switch (currentTarget.HasThing)
         {
-            return false;
-        }
-
-        if (!currentTarget.HasThing)
-        {
-            return false;
+            case true when currentTarget.Thing.Map != caster.Map:
+            case false:
+                return false;
         }
 
         if (currentTarget.Thing is not Pawn pawn)
