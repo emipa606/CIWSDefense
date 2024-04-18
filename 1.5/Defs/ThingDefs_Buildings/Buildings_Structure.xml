@@ -31,6 +31,7 @@
     </statBases>
     <costStuffCount>10</costStuffCount>
     <fillPercent>0.8</fillPercent>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <coversFloor>true</coversFloor>
   </ThingDef>
   <ThingDef ParentName="Wall" Name="FangdanWall">
