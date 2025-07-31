@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 854319499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2f5dc3a49ba6ac59884fe01da162b37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b2f5dc3a49ba6ac59884fe01da162b37
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Item/Resource/W99Shell.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretAB_UI.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretF.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretM_UI.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretB_Gun.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretF_UI.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretAB.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretA.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretD_Gun.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretB.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretA_Gun.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretC.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretA_UI.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretAB_Gun.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretM.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Linked/WallCIWS_Atlas.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretB_UI.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Linked/WallSmoothCIWS_MenuIcon.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Item/Resource/W86Shell.png
+- "Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/\u672A\u6807\u9898-1.png"
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Linked/WallCIWS_MenuIcon.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretC_UI.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretD.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretC_Gun.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretD_UI.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretM_Gun.png
+- Assets/Data/Mlie.CIWSDefense/Textures/CIWS/Building/Security/TurretF_Gun.png
+Dependencies: []

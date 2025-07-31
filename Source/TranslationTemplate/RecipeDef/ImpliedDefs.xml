@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make 120mm high explosive shell -->
+  <Make_Shell120mm.label>make 120mm high explosive shell</Make_Shell120mm.label>
+  <!-- EN: Make a 120mm high explosive shell. -->
+  <Make_Shell120mm.description>Make a 120mm high explosive shell.</Make_Shell120mm.description>
+  <!-- EN: Making 120mm high explosive shell. -->
+  <Make_Shell120mm.jobString>Making 120mm high explosive shell.</Make_Shell120mm.jobString>
+  <!-- EN: make 82mm EMP shell -->
+  <Make_Shell82mm.label>make 82mm EMP shell</Make_Shell82mm.label>
+  <!-- EN: Make a 82mm EMP shell. -->
+  <Make_Shell82mm.description>Make a 82mm EMP shell.</Make_Shell82mm.description>
+  <!-- EN: Making 82mm EMP shell. -->
+  <Make_Shell82mm.jobString>Making 82mm EMP shell.</Make_Shell82mm.jobString>
+</LanguageData>

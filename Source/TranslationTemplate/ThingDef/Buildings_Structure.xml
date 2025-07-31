@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 你的墙 -->
+  <CIWS_WallAnquan.label>你的墙</CIWS_WallAnquan.label>
+  <!-- EN: 能够防御各种攻击的墙壁，昂贵但安全。 -->
+  <CIWS_WallAnquan.description>能够防御各种攻击的墙壁，昂贵但安全。</CIWS_WallAnquan.description>
+  <!-- EN: 防弹墙 -->
+  <CIWS_WallFangdan.label>防弹墙</CIWS_WallFangdan.label>
+  <!-- EN: 经过特殊工艺处理的材料建造的墙壁，对各种飞矢类攻击防御效果突出。 -->
+  <CIWS_WallFangdan.description>经过特殊工艺处理的材料建造的墙壁，对各种飞矢类攻击防御效果突出。</CIWS_WallFangdan.description>
+  <!-- EN: 女墙 -->
+  <WallCIWS.label>女墙</WallCIWS.label>
+  <!-- EN: 防御用的女墙，不可通过，掩护射击。 -->
+  <WallCIWS.description>防御用的女墙，不可通过，掩护射击。</WallCIWS.description>
+</LanguageData>

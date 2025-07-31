@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 120mm high explosive shell -->
+  <Bullet120mmMortar.label>120mm high explosive shell</Bullet120mmMortar.label>
+  <!-- EN: 82mm EMP shells -->
+  <Bullet82mmMortar.label>82mm EMP shells</Bullet82mmMortar.label>
+  <!-- EN: 120mm high explosive shell -->
+  <Shell120mm.label>120mm high explosive shell</Shell120mm.label>
+  <!-- EN: 120mm high explosive shell. -->
+  <Shell120mm.description>120mm high explosive shell.</Shell120mm.description>
+  <!-- EN: 82mm EMP shells -->
+  <Shell82mm.label>82mm EMP shells</Shell82mm.label>
+  <!-- EN: 82mm EMP shells. -->
+  <Shell82mm.description>82mm EMP shells.</Shell82mm.description>
+</LanguageData>

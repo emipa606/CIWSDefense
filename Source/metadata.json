@@ -2,5 +2,14 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 1329,
+  "LinesOfXML": 54850,
+  "CodeBaseSize": 75,
+  "LastXmlCleaning": "2025-07-31T21:37:30.0525073+02:00",
+  "SocialImageSet": true,
+  "SearchTags": " advanced equipment"
 }
