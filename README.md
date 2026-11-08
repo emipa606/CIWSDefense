@@ -1,15 +1,15 @@
 # [CIWS_Defense (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2610390414)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of topp2000s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1493496244
 
 - Should no longer overwrite vanilla wall-textures
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Introduction: https://www.gamejilu.com/notes/rimworld_clws/
 Update log:
@@ -54,13 +54,13 @@ The 0.16.5:B defense tower is changed to automatic, no longer consuming shells.
 0.15.2：支持繁体中文，感谢猫叔的翻译@Biscuit 。
 0.15.1：从核心mod中分离。添加了四种防御塔，一门120mm迫击炮，建造防御塔需要石墨烯材料。
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -68,4 +68,4 @@ The 0.16.5:B defense tower is changed to automatic, no longer consuming shells.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/CIWSDefense?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2610390414) | tags:  advanced equipment
+[![Image](https://img.shields.io/github/v/release/emipa606/CIWSDefense?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2610390414) | advanced equipment
